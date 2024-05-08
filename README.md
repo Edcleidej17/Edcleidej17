@@ -5,7 +5,8 @@
 <br>
 <p><strong>Atualmente-</strong>
  <br>
-🌱cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT.
+🌱cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT
+ <br>
 🌱cursando Programa Descodificadas
 
 <br>
@@ -15,13 +16,6 @@ Edcleidej17/Edcleidej17 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<style> 
-    * { 
-        text-align: center;
-    }
-   p{
-     color:blueviolet
-      </style>
 
  ##
 
