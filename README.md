@@ -7,7 +7,7 @@
  <br>
 🌱cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT 💕
  <br>
-🌱cursando o Programa Descodificadas </> 💕
+🌱cursando o Programa Descodificadas <d/> 💕
 
 <br>
 <br>
