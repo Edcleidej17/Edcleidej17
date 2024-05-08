@@ -1,6 +1,6 @@
 ## Oii, me chamo Edy
-
-                                                     👩🏽‍💻
+<br>
+ 👩🏽‍💻
 <br>
 <br>
 <p><strong>Atualmente-</strong>
