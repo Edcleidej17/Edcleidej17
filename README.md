@@ -1,12 +1,14 @@
 ## Oii, me chamo Edy
 <br>
 <br>
+👩🏽‍💻
 <br>
 <br>
+🌱 Atualmente 
+*cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT
+<p><strong>Aquela peça coringa</strong>.
 <br>
-🌱 Atualmente estou cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT
-
-
+<br>
 <!---
 Edcleidej17/Edcleidej17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
