@@ -3,7 +3,7 @@
  👩🏽‍💻
 <br>
 <br>
-<p><strong>Atualmente-</strong>
+<p><strong>Atualmente</strong>
  <br>
 🌱cursando técnico em Desenvolvimento de sistemas pela Escola Técnica FAT 💕
  <br>
